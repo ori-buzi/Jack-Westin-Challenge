@@ -1,2 +1,2 @@
 # Jack-Westin-Challenge
-This is a challenge project about CSS &amp; Html
+This is a challenge project focused on CSS and HTML.
